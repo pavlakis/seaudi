@@ -3,8 +3,8 @@
  * A semi-automatic DI resolver retrieving dependencies through a container.
  *
  * @link      https://github.com/pavlakis/seaudi
- * @copyright Copyright © 2015 Antonis Pavlakis
- * @license   https://github.com/pavlakis/seaudi/LICENSE (BSD 3-Clause License)
+ * @copyright Copyright © 2015-2016 Antonis Pavlakis
+ * @license   https://github.com/pavlakis/seaudi/blob/master/LICENSE (BSD 3-Clause License)
  */
 
 namespace pavlakis\seaudi;
